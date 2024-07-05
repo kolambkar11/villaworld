@@ -15,7 +15,7 @@ function App() {
           <Route
             activeClassName="active_class"
             exact
-            path="/"
+            path="/villaworld/villasdetailed"
             element={<Villadetailed />}
           ></Route>
           <Route path="*" element={<NotFound />}></Route>
