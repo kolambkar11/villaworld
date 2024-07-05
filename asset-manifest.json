@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/villaworld/static/css/main.94a2ebe1.css",
-    "main.js": "/villaworld/static/js/main.731a0ec4.js",
+    "main.css": "/villaworld/static/css/main.91b9fd63.css",
+    "main.js": "/villaworld/static/js/main.4c157cf3.js",
     "static/js/453.de7f1f6f.chunk.js": "/villaworld/static/js/453.de7f1f6f.chunk.js",
     "static/media/logo.png": "/villaworld/static/media/logo.0f26d50d619d89ecd95e.png",
     "static/media/villa-one-v3.jpeg": "/villaworld/static/media/villa-one-v3.ec802004b3b6d93390ba.jpeg",
@@ -9,12 +9,12 @@
     "static/media/villa-one-v2.jpeg": "/villaworld/static/media/villa-one-v2.2633de150b2acad3a74c.jpeg",
     "static/media/villa-one-v4.jpeg": "/villaworld/static/media/villa-one-v4.c2acfa5883149d75108a.jpeg",
     "index.html": "/villaworld/index.html",
-    "main.94a2ebe1.css.map": "/villaworld/static/css/main.94a2ebe1.css.map",
-    "main.731a0ec4.js.map": "/villaworld/static/js/main.731a0ec4.js.map",
+    "main.91b9fd63.css.map": "/villaworld/static/css/main.91b9fd63.css.map",
+    "main.4c157cf3.js.map": "/villaworld/static/js/main.4c157cf3.js.map",
     "453.de7f1f6f.chunk.js.map": "/villaworld/static/js/453.de7f1f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94a2ebe1.css",
-    "static/js/main.731a0ec4.js"
+    "static/css/main.91b9fd63.css",
+    "static/js/main.4c157cf3.js"
   ]
 }
