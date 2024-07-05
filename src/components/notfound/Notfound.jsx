@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import "./notfound.css";
-export default function NotFound() {
+export default function Notfound() {
   return (
     <div className="container text-center notfound">
       <h1>404</h1>
